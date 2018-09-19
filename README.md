@@ -1,6 +1,6 @@
 ## Overview
  
-| [Week 1](http://milesccoleman.com/feels_bot) 
+  [Week 1](http://milesccoleman.com/feels_bot) 
 | [Week 2](http://milesccoleman.com/feels_bot) 
 | [Week 3](http://milesccoleman.com/feels_bot) 
 | [Week 4](http://milesccoleman.com/feels_bot) 
