@@ -1,8 +1,8 @@
 ## Overview
  
-| [Week 1
-What is a bot?](http://milesccoleman.com/feels_bot) | [Week 2
-What can we do with bots?](http://milesccoleman.com/feels_bot) | [Week 3](http://milesccoleman.com/feels_bot) | [Week 4](http://milesccoleman.com/feels_bot) | [Week 5](http://milesccoleman.com/feels_bot) | 
+| Week 1
+[What is a bot?](http://milesccoleman.com/feels_bot) | Week 2
+[What can we do with bots?](http://milesccoleman.com/feels_bot) | [Week 3](http://milesccoleman.com/feels_bot) | [Week 4](http://milesccoleman.com/feels_bot) | [Week 5](http://milesccoleman.com/feels_bot) | 
 |[Week 6](http://milesccoleman.com/feels_bot) | [Week 7](http://milesccoleman.com/feels_bot) | [Week 8](http://milesccoleman.com/feels_bot) | [Week 9](http://milesccoleman.com/feels_bot) | [Week 10](http://milesccoleman.com/feels_bot) | 
  
 You can use the [editor on GitHub](https://github.com/dicesu/autocomm/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
