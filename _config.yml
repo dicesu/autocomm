@@ -2,11 +2,5 @@ theme: jekyll-theme-slate
 title: Automated Communication & Advocacy 
 description: Introduction to Conversational Interface Design
 show_downloads: false
-twitter_username: includefuntwitterbotaboutbots
-email: colemanm@seattleu.edu
-  
-avatar: "/img/avatar-icon.png"
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+github:
+  is_project_page: false
