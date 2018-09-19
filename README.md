@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Automated Communication & Advocacy 
 
 You can use the [editor on GitHub](https://github.com/dicesu/autocomm/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
