@@ -4,14 +4,6 @@ description: Introduction to Conversational Interface Design
 show_downloads: false
 twitter_username: includefuntwitterbotaboutbots
 email: colemanm@seattleu.edu
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
   
 avatar: "/img/avatar-icon.png"
 
