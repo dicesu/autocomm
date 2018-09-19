@@ -1,4 +1,12 @@
-## Automated Communication & Advocacy 
+## Overview
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+  Author's home: "http://deanattali.com"
 
 You can use the [editor on GitHub](https://github.com/dicesu/autocomm/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
