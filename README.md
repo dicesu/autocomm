@@ -1,8 +1,8 @@
 ## Overview
 
-[Week 1](week1) | [Week 2](http://milesccoleman.com/feels_bot) | [Week 3](http://milesccoleman.com/feels_bot) | [Week 4](http://milesccoleman.com/feels_bot) | [Week 5](http://milesccoleman.com/feels_bot) | [Syllabus](http://milesccoleman.com/feels_bot) 
+[Week 1](week1) | [Week 2](week2) | [Week 3](week3) | [Week 4](week4) | [Week 5](week5) | [Syllabus](syllabus) 
 
-[Week 6](http://milesccoleman.com/feels_bot) | [Week 7](http://milesccoleman.com/feels_bot) | [Week 8](http://milesccoleman.com/feels_bot) | [Week 9](http://milesccoleman.com/feels_bot) | [Week 10](http://milesccoleman.com/feels_bot) | [GitHub](https://github.com/dicesu)
+[Week 6](week6) | [Week 7](week7) | [Week 8](week8) | [Week 9](week9) | [Week 10](week10) | [GitHub](https://github.com/dicesu)
  
 You can use the [editor on GitHub](https://github.com/dicesu/autocomm/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
