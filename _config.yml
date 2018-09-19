@@ -14,3 +14,7 @@ navbar-links:
   Author's home: "http://deanattali.com"
   
 avatar: "/img/avatar-icon.png"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
